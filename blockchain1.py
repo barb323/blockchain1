@@ -1,7 +1,7 @@
 # blockchain1.py
 # Original code idea based on: Dr. Ernesto Lee – "Building Your Own Blockchain in Python"
 # https://drlee.io/building-your-own-blockchain-in-python-a-step-by-step-guide-ec10ea6c976d
-# Modified by [wald328]
+# Modified by [wald]
 
 
 import hashlib  # We'll use Python's built-in hashlib library
@@ -159,5 +159,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
